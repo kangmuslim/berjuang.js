@@ -1,0 +1,2 @@
+# berjuang.js
+berjuang
